@@ -3,7 +3,7 @@
 # You need installed:
 
     Java 8,
-    sbt.
+    sbt. (https://www.scala-sbt.org/download.html)
 
 Then:
 
