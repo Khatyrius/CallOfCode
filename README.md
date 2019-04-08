@@ -2,8 +2,6 @@
 
 # You need installed:
 
-You need installed:
-
     Java 8,
     sbt.
 
