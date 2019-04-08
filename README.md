@@ -2,12 +2,12 @@
 
 # You need installed:
 
-    Java 8,
-    sbt. <a href="https://www.scala-sbt.org/download.html">Download</a>
+Java 8,
+sbt. [Download](https://www.scala-sbt.org/download.html)
 
 Then:
 
-    sbt run -- to run server in dev mode.
+sbt run -- to run server in dev mode.
 
 # More
 
