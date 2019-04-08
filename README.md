@@ -3,7 +3,7 @@
 # You need installed:
 
     Java 8,
-    sbt. [Download]:https://www.scala-sbt.org/download.html
+    sbt. <a href="https://www.scala-sbt.org/download.html">Download</a>
 
 Then:
 
